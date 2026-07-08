@@ -1,3 +1,2 @@
-# AaronGoldman
-READ ME
-## Hi everyone 👋 I'm Aaron, a Product Manager.
+# Hi, I'm Aaron 👋
+I'm a Senior Product Manager with a track record across B2B SaaS, AdTech, e-commerce, and consumer platforms. I drive data-driven product strategy through experimentation, user research, and translating signal into roadmap decisions. My work spans the full product development lifecycle: from hypothesis-driven discovery and research, to go-to-market execution and post-launch optimization.
